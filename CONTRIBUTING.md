@@ -1,22 +1,17 @@
 # Contribution Guidelines
 
-This is a compilation of **Free and Libre Open Source Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software))**. Restrictive licenses (aka Freeware, Shareware) are *not awesome*.
+Please ensure your pull request adheres to the following guidelines:
 
-## Commits
-* Search previous suggestions before making a new one.
-* Use the following format: `[RESOURCE](LINK) - DESCRIPTION.`
-  * Keep descriptions short (<80 characters).
-  * End descriptions with a full stop.
-* Make an individual commit for each category.
-  * Order projects alphabetically.
-  * Consolidate multiple commits.
+- Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Insert a new entry **alphabetically**. The prefix "The" is not considered in this sorting.
+- Make an individual pull request for each suggestion.
+- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Use the following format: `[List Name](link)  - additional information.`
+- New categories or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request and commit should have a useful title.
+- In your pull request, include a link in the textual description.
 
-## Pull Requests
-* Use imperative (e.g. add instead of added/adding) in the PR title.
-* Include application names, categories and a link to the open source project page in the description.
-
-## Issues
-* Discussion, questions and bug reports only.
-* If you are sure software meets the guidelines, create a Pull Request (see above).
-* Check spelling and grammar.
-* Suggestions for improvements to existing structure are welcome.
+Thank you for your suggestions!
